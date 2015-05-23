@@ -1,7 +1,7 @@
 [
   {
     "remote":      "github",
-    "repository":  "android_device_sony_togar",
+    "repository":  "android_device_sony_togari",
     "target_path": "device/sony/togari",
     "revision":    "pac-5.1"
   },
